@@ -1,13 +1,2 @@
 streamlit
-fastapi
-uvicorn
-langchain-openai
-sentence-transformers
-faiss-cpu
-transformers
-torch
-pandas
 numpy
-openai
-pydantic
-datasets
